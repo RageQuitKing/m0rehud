@@ -11,7 +11,7 @@
                 "xpos"                          "2"
                 "ypos"                          "855"
                 "zpos"                          "0"
-                "wide"                          "f8"
+                "wide"                          "391"
                 "tall"                          "70"
                 "visible"                       "1"
                 "enabled"                       "1"
@@ -44,6 +44,30 @@
                     "roundedcorners"            "3"
                     "bgcolor_override"          "StoreGreen"
                 }
+				"Warning"
+				{
+					"ControlName"						"CExLabel"
+					"fieldName"							"Warning"
+					"xpos"								"-1"
+					"ypos"								"-1"
+					"zpos"								"1"
+					"wide"								"240"
+					"tall"								"12"
+					"visible"							"1"
+					"enabled"							"1"
+					"proportionaltoparent"				"1"
+					"labelText"							"MvM Changes designed for the SPANISH preset of scoreboard!"
+					"font"								"FontStoreOriginalPrice"
+					"textAlignment"						"center"
+					"fgcolor"							"White"
+					"paintbackground"					"1"
+					"paintBackgroundType"				"2"
+					"bgcolor_override"					"Red"
+
+					"pin_to_sibling"					"Title"
+					"pin_corner_to_sibling"				"PIN_TOPRIGHT"
+					"pin_to_sibling_corner"				"PIN_TOPRIGHT"
+				}
 //=========================================================================================================
 // MVM SCOREBOARD STYLE
 //=========================================================================================================
@@ -695,7 +719,7 @@
 							"mouseinputenabled"			"0"
 							"proportionaltoparent"		"1"
 							"font"						"DefaultVerySmall"
-							"labeltext"					"Near Playermodel"
+							"labeltext"					"Near Ammo"
 							"textAlignment"				"center"
 							"fgcolor"					"White"
 							"paintbackground"			"1"

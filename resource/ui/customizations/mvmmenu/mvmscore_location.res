@@ -127,7 +127,7 @@
 		"enabled"									"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"0 0 0 75"
+		"bgcolor_override"							"0 0 0 200"
 		"proportionaltoparent"						"1"
 
 		"pin_to_sibling"							"MvMPlayerList"
@@ -238,7 +238,7 @@
 			"zpos"									"0"
 			"wide"									"262"
 			"tall"									"f0"
-			"visible"								"1"
+			"visible"								"0"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 
