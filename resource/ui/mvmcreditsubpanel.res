@@ -20,7 +20,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"CreditCollectedTextLabel"
 		"ypos"										"13"
-		"wide"										"75"
+		"wide"										"38"
 		"tall"										"10"
 		"AllCaps"									"0"
 		"proportionaltoparent"						"1"
@@ -29,6 +29,8 @@
 		"textAlignment"								"west"
 		"xpos"										"3"
 		"fgcolor"									"White"
+
+		"pin_to_sibling"							"TotalGameCreditInfoPanel"
 	}
 	"CreditCollectedCountLabel"
 	{
@@ -54,7 +56,7 @@
 		"fieldName"									"CreditMissedTextLabel"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"75"
+		"wide"										"38"
 		"tall"										"10"
 		"AllCaps"									"0"
 		"proportionaltoparent"						"1"
@@ -91,7 +93,7 @@
 		"fieldName"									"CreditBonusTextLabel"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"75"
+		"wide"										"38"
 		"tall"										"10"
 		"AllCaps"									"0"
 		"proportionaltoparent"						"1"
