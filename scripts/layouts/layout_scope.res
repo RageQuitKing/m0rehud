@@ -1,21 +1,5 @@
-"Scripts/Layouts/Layout_scope.res"
-{
-	"HudScope"
-	{
-		"fieldName"									"HudScope"
-		"visible"									"1"
-		"enabled"									"1"
-		"wide"										"640"
-		"tall"										"480"
-	}
-	"HudScopeCharge"
-	{
-		"fieldName"									"HudScopeCharge"
-		"visible"									"1"
-		"enabled"									"1"
-		"xpos"										"c25"
-		"ypos"										"c-64"
-		"wide"										"64"
-		"tall"										"128"
-	}
-}
+// CUSTOMIZATIONS
+#base "../../cfg/m0re_scope_charge.txt"
+
+// BASE CONTENT
+#base "layout_scope_base.res"
