@@ -1312,8 +1312,8 @@
     	"zpos"                						"-99"
     	"wide"                						"f0"
     	"tall"                						"f0"
-		"visible"            						"1"
-   	 	"enabled"            						"1"
+		"visible"            						"0"
+   	 	"enabled"            						"0"
   	 	"paintBackground"        					"1"
    	  	"bgcolor_override"        					"120 120 120 255"
 	}
