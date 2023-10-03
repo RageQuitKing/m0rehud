@@ -201,6 +201,132 @@
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
 			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}
+		"PartySlot6"
+		{
+			"ControlName"							"CDashboardPartyMember"
+			"fieldName"								"PartySlot6"
+			"xpos"									"1"
+			"ypos"									"0"
+			"zpos"									"100"
+			"wide"									"19"
+			"tall"									"19"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"1"
+			"keyboardinputenabled"					"0"
+
+			"party_slot"							"6"
+
+			"pin_to_sibling"						"PartySlot5"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+		"PartySlot7"
+		{
+			"ControlName"							"CDashboardPartyMember"
+			"fieldName"								"PartySlot7"
+			"xpos"									"1"
+			"ypos"									"0"
+			"zpos"									"100"
+			"wide"									"19"
+			"tall"									"19"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"1"
+			"keyboardinputenabled"					"0"
+
+			"party_slot"							"7"
+
+			"pin_to_sibling"						"PartySlot6"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+		"PartySlot8"
+		{
+			"ControlName"							"CDashboardPartyMember"
+			"fieldName"								"PartySlot8"
+			"xpos"									"1"
+			"ypos"									"0"
+			"zpos"									"100"
+			"wide"									"19"
+			"tall"									"19"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"1"
+			"keyboardinputenabled"					"0"
+
+			"party_slot"							"8"
+
+			"pin_to_sibling"						"PartySlot7"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+				"PartySlot9"
+		{
+			"ControlName"							"CDashboardPartyMember"
+			"fieldName"								"PartySlot9"
+			"xpos"									"1"
+			"ypos"									"0"
+			"zpos"									"100"
+			"wide"									"19"
+			"tall"									"19"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"1"
+			"keyboardinputenabled"					"0"
+
+			"party_slot"							"9"
+
+			"pin_to_sibling"						"PartySlot8"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+		"PartySlot10"
+		{
+			"ControlName"							"CDashboardPartyMember"
+			"fieldName"								"PartySlot10"
+			"xpos"									"1"
+			"ypos"									"0"
+			"zpos"									"100"
+			"wide"									"19"
+			"tall"									"19"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"1"
+			"keyboardinputenabled"					"0"
+
+			"party_slot"							"10"
+
+			"pin_to_sibling"						"PartySlot9"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+		"PartySlot11"
+		{
+			"ControlName"							"CDashboardPartyMember"
+			"fieldName"								"PartySlot11"
+			"xpos"									"1"
+			"ypos"									"0"
+			"zpos"									"100"
+			"wide"									"19"
+			"tall"									"19"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"1"
+			"keyboardinputenabled"					"0"
+
+			"party_slot"							"11"
+
+			"pin_to_sibling"						"PartySlot10"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
 		"QueueContainer"
 		{
 			"ControlName"							"EditablePanel"

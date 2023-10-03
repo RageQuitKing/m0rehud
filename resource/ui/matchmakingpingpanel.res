@@ -5,7 +5,7 @@
 	"PingPanel"
 	{
 		"fieldName"									"PingPanel"
-		"xpos"										"-300"
+		"xpos"										"0"
 		"ypos"										"10"
 		"zpos"										"1001"
 		"wide"										"210"
@@ -73,7 +73,7 @@
 	}
 	"InviteModeComboBox"
 	{
-	//	"ControlName"								"ComboBox"
+		"ControlName"								"ComboBox"
 		"fieldName"									"InviteModeComboBox"
 		"xpos"										"0"
 		"ypos"										"0"

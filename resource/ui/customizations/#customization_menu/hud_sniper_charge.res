@@ -115,7 +115,7 @@
 							"mouseinputenabled"			"0"
 							"proportionaltoparent"		"1"
 							"font"						"DefaultVerySmall"
-							"labeltext"					"In Scope"
+							"labeltext"					"Inside of Scope"
 							"textAlignment"				"center"
 							"fgcolor"					"White"
 							"paintbackground"			"1"

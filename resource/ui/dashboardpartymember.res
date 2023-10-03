@@ -117,9 +117,10 @@
 		"xpos"										"1"
 		"ypos"										"1"
 		"zpos"										"104"
-		"wide"										"f2"
-		"tall"										"f2"
-		"visible"									"1"
+		"wide"										"0"
+		"tall"										"0"
+		"visible"									"0"
+		"enabled"									"0"
 		"proportionaltoparent"						"1"
 		"bgcolor_override"							"TransparentBlack"
 	}
