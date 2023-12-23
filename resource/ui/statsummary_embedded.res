@@ -1734,22 +1734,7 @@
 			"enabled"								"0"
 		}
 	}
-	"ResetMyStatsButton"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"ResetMyStatsButton"
-		"xpos"										"c115"
-		"ypos"										"c37"
-		"zpos"										"6"
-		"wide"										"180"
-		"tall"										"14"
-		"visible"									"1"
-		"enabled"									"1"
-		"font"										"HudFontSmallest"
-		"labelText"									"reset stats"
-		"textAlignment"								"center"
-		"Command"									"resetstatsbutton"
-	}
+
 
 
 
@@ -1849,6 +1834,17 @@
 	{
 		"ControlName"								"Button"
 		"fieldName"									"ResetStatsButton"
+		"xpos"										"9999"
+		"ypos"										"9999"
+		"wide"										"0"
+		"tall"										"0"
+		"visible"									"0"
+		"enabled"									"0"
+	}
+	"ResetMyStatsButton"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"ResetMyStatsButton"
 		"xpos"										"9999"
 		"ypos"										"9999"
 		"wide"										"0"

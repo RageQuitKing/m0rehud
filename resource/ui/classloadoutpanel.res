@@ -17,8 +17,8 @@
 		"infocus_bgcolor_override"					"TanDarker"
 		"outoffocus_bgcolor_override"				"TanDarker"
 
-		"item_xpos_offcenter_a"						"-310"
-		"item_xpos_offcenter_b"						"165"
+		"item_xpos_offcenter_a"						"130"
+		"item_xpos_offcenter_b"						"275"
 		"item_ypos"									"60"
 		"item_ydelta"								"75"
 		"item_mod_wide"								"40"
@@ -81,16 +81,33 @@
 			"sound_released"						"UI/buttonclickrelease.wav"
 		}
 	}
+	//////////////////////////////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////////
+		"Loadout_Preset_Panel"
+		{
+		"ControlName"								"CLoadoutPresetPanel"
+		"FieldName"									"Loadout_Preset_Panel"
+		"xpos"										"c200"
+		"ypos"										"c200"
+		"zpos"										"50"
+		"wide"										"110"
+		"tall"										"25"
+		"visible"									"1"
+		"enabled"									"1"
+		"paintbackground"							"0"
+		}
+	//////////////////////////////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////////
 	"ClassModelPanel"
 	{
 		"ControlName"								"CTFPlayerModelPanel"
 		"fieldName"									"ClassModelPanel"
 
-		"xpos"										"c-135"
-		"ypos"										"20"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"-1"
-		"wide"										"270"
-		"tall"										"340"
+		"wide"										"375"
+		"tall"										"370"
 		"visible"									"1"
 		"enabled"									"1"
 
@@ -100,18 +117,18 @@
 
 		"Model"
 		{
-			"force_pos"								"1"
+			"force_pos"								"0"
 
 			"angles_x"								"0"
-			"angles_y"								"170"
+			"angles_y"								"180"
 			"angles_z"								"0"
 			"origin_x"								"190"
 			"origin_y"								"0"
-			"origin_z"								"-48"
+			"origin_z"								"-40"
 			"frame_origin_x"						"0"
 			"frame_origin_y"						"0"
 			"frame_origin_z"						"0"
-			"spotlight"								"1"
+			"spotlight"								"0"
 
 			"modelname"								""
 		}
@@ -170,17 +187,7 @@
 		"fgcolor"									"255 215 0 255"
 		"centerwrap"								"1"
 	}
-	"Loadout_Preset_Panel"
-	{
-		"ControlName"								"CLoadoutPresetPanel"
-		"FieldName"									"Loadout_Preset_Panel"
-		"zpos"										"20"
-		"wide"										"150"
-		"tall"										"25"
-		"visible"									"1"
-		"enabled"									"1"
-		"paintbackground"							"0"
-	}
+
 	"PresetsExplanation"
 	{
 		"ControlName"								"CExplanationPopup"
@@ -295,8 +302,8 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"CharacterLoadoutButton"
-		"xpos"										"c-28"
-		"ypos"										"32"
+		"xpos"										"c272-28"
+		"ypos"										"5"
 		"zpos"										"2"
 		"wide"										"25"
 		"tall"										"25"
@@ -317,8 +324,8 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"TauntLoadoutButton"
-		"xpos"										"c0"
-		"ypos"										"32"
+		"xpos"										"c272"
+		"ypos"										"5"
 		"zpos"										"2"
 		"wide"										"25"
 		"tall"										"25"
@@ -339,8 +346,8 @@
 	{
 		"ControlName"								"CExImageButton"
 		"fieldName"									"BlueButton"
-		"xpos"										"c-39"
-		"ypos"										"32"
+		"xpos"										"c272-39"
+		"ypos"										"5"
 		"zpos"										"20"
 		"wide"										"8"
 		"tall"										"25"
@@ -364,8 +371,8 @@
 	{
 		"ControlName"								"CExImageButton"
 		"fieldName"									"RedButton"
-		"xpos"										"c28"
-		"ypos"										"32"
+		"xpos"										"c272+28"
+		"ypos"										"5"
 		"zpos"										"20"
 		"wide"										"8"
 		"tall"										"25"
